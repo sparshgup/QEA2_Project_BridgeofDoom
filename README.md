@@ -1,3 +1,3 @@
-# QEA2 Projects
+# QEA2 Project
 
-Project 1: Bridge of Doom (Parametric Curves)
+Bridge of Doom (Parametric Curves)
